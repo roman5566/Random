@@ -1,3 +1,7 @@
+
+This is a personal clone made for TESTING AND LEARNING PURPOSES of git and other code.
+ALL CREDIT GOES TO SWIZZY go here for actual code. https://github.com/Swizzy/Random
+
 CPUKey Checker - A Tool to check that your cpukey is valid
 
 ECCRemover - A Tool to strip away the ECC of a Xbox 360 NAND
